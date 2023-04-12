@@ -3,6 +3,6 @@ terraform {
     bucket = "mybucket1008batch16"
     key = "main"
     region = "us-east-1"
-    dynamodb_table = "mydynamodb1008"
+    dynamodb_table = "mydynamodb108batch16"
   }
 }
